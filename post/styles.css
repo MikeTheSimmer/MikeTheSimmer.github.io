@@ -1,0 +1,151 @@
+/* Add this CSS code to your styles.css file */
+
+/* Common styles */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    /* Adjust the width and height of the logo as needed */
+    width: 120px;
+    height: 120px;
+}
+
+header {
+    background-color: #00A2E8;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #f4f4f4;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+    padding: 5px;
+}
+
+nav ul li a:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+main {
+    margin: 20px;
+    text-align: center;
+}
+
+.section-title {
+    margin-top: 0;
+}
+
+.category-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.category {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.category-title {
+    margin-top: 0;
+}
+
+.post-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.post-card {
+    flex: 1 1 200px;
+    max-width: 300px;
+    max-height: 300px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.tile-image {
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.post-content {
+    margin-bottom: 0;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    .logo {
+        width: 80px;
+        height: 80px;
+    }
+
+    nav ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    nav ul li {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    main {
+        margin: 10px;
+    }
+
+    .section-title {
+        font-size: 20px;
+    }
+
+    .category-container {
+        gap: 10px;
+    }
+
+    .post-card {
+        flex-basis: 100%;
+    }
+}
