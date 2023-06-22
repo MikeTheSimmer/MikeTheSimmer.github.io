@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    height: 120px;
+}
+
+header {
+    background-color: #00A2E8;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+nav {
+    background-color: #f4f4f4;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li:not(:last-child) {
+    margin-right: 20px; /* Increase the margin value as needed */
+}
+
+li {
+    line-break: loose;
+    margin-bottom: 10px; /* Adjust the margin value as needed */
+}
+
+.pickup-info {
+    margin-top: 30px;
+}
+
+.contact-info {
+    margin-top: 20px;
+}
+
+.note {
+    margin-top: 20px;
+    font-style: italic;
+}
+
+/* Mobile Flex */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    .logo {
+        width: 80px;
+        height: 80px;
+    }
+
+    nav ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    nav ul li {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+}
