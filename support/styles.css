@@ -72,6 +72,18 @@ li {
     font-style: italic;
 }
 
+.contact-info li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.contact-info img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
 /* Mobile Flex */
 @media (max-width: 768px) {
     .container {
