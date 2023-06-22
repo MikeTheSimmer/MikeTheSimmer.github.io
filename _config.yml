@@ -3,7 +3,7 @@ base_url: "/"
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: "OzFlySIM"
+title: "Mike The Simmer"
 
 github:
   is_project_page: false
