@@ -1,0 +1,31 @@
+extends /layouts/_informational
+
+block vars
+  -
+    page = {
+      title: 'Delivery',
+      breadcrumbs: {}
+    }
+
+    informationalActivePage = 6
+
+block informational
+  article(class="uk-card " +
+                "uk-card-default " +
+                "uk-card-small " +
+                "uk-card-body " +
+                "uk-article " +
+                "tm-ignore-container")
+
+    h2 Delivery in 3-7 days or pickup near Gordon NSW
+    p Delivery - free postage by Australian Post or Sendle
+    ul
+      li 2 - 4 days in NSW
+      li 3 - 10 days in Australia
+    p International Delivery - NOT available for now. Australia only.
+    p Local Pick up - near Gordon NSW. Please contact Mike.
+
+    figure
+      div.uk-text-bolder= shopInfo.storeName
+      div!= shopInfo.address
+      div= shopInfo.openingHours

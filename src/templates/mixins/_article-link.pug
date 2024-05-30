@@ -1,0 +1,20 @@
+mixin article-link(name)
+
+    if product.article === 'mfd'
+        include /productOverview/_mfd
+    else if product.article === 'aimxy'
+        include /productOverview/_aimxy
+    else if product.article === 'kpx'
+        include /productOverview/_kpx
+    else if product.article === 'alarm'
+        include /productOverview/_alarm
+    else if product.article === 'aviation_plate'
+        include /productOverview/_aviation_plate
+    else if product.article === 'mirabox293'
+        include /productOverview/_mirabox293
+    else if product.article === 'mirabox293s'
+        include /productOverview/_mirabox293s
+    else if product.article === 'cargapcharger'
+        include /productOverview/_cargapcharger
+    else
+        include /partials/_article

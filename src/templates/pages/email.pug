@@ -1,0 +1,20 @@
+extends /layouts/_informational
+
+block vars
+  -
+    page = {
+      title: 'Email',
+      breadcrumbs: {}
+    }
+
+    informationalActivePage = 5
+
+block informational
+  article(class="uk-card " +
+                "uk-card-default " +
+                "uk-card-small " +
+                "uk-card-body " +
+                "uk-article " +
+                "tm-ignore-container")
+
+    p #{shopInfo.email}

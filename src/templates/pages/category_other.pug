@@ -1,0 +1,52 @@
+extends /layouts/_pages
+
+block vars
+  -
+    thisCategory = 'other'
+    page = {
+      title: 'Other Picks',
+      breadcrumbs: {
+        'Catalog': 'catalog.html'
+      },
+      quantity: products.filter(item => item.category.includes(thisCategory)).length
+    }
+
+block pages
+  div.uk-grid-medium(uk-grid)
+
+    //- Filters
+    aside#filters.uk-width-1-4.tm-aside-column.tm-filters(
+      uk-offcanvas="overlay: true; " +
+                   "container: false;")
+
+      div.uk-offcanvas-bar.uk-padding-remove
+        div(class="uk-card " +
+                  "uk-card-default " +
+                  "uk-card-small " +
+                  "uk-flex " +
+                  "uk-flex-column " +
+                  "uk-height-1-1")
+
+          //- Header
+          header.uk-card-header.uk-flex.uk-flex-middle
+            div.uk-grid-small.uk-flex-1(uk-grid)
+              div.uk-width-expand
+                div.uk-h3 Filters
+              button.uk-offcanvas-close(type="button" uk-close)
+
+          //- Accordion
+          div.uk-margin-remove.uk-flex-1.uk-overflow-auto(
+            uk-accordion="multiple: true; targets: > .js-accordion-section"
+            style="flex-basis: auto")
+
+            // - Categories
+            section.uk-card-small.uk-card-body
+              h4.uk-margin-small-bottom Categories
+              ul.uk-nav.uk-nav-default
+                each category in catalog
+                  - var path = "category_" + category.id + ".html"
+                  li: a(href=path)= category.name
+
+    //- Content
+    div.uk-width-expand
+      include /partials/_products_other

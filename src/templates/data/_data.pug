@@ -1,0 +1,289 @@
+-
+  var shopInfo = {
+    discordDesc: 'Tech Support/Discussion',
+    email: 'flightsimulatoraustralia@gmail.com',
+    address: 'Gordon NSW, Australia',
+    openingHours: 'Daily 10:00–22:00',
+    storeName: 'Mike The Simmer',
+    latitude: -33.7557618,
+    longitude: 151.1517811,
+    discord: 'https://discord.gg/rHztapDDVs',
+    youtube: 'https://www.youtube.com/channel/UCuNTDYFyP6wQz4utQiaBW6Q',
+    tiktok: 'https://www.tiktok.com/@mikethesimmer_fly',
+    amazonStore: 'https://www.amazon.com.au/s?me=AKE2RPOKWRGPD&marketplaceID=A39IBJ37TRP1C6',
+    ebayStore: 'https://www.ebay.com.au/sch/i.html?_ssn=mikethesimmer',
+    addIssueKeyboardLayout: 'https://github.com/MikeTheSimmer/bbs-board-new-keyboard-layout/issues/new',
+    addIssueFeedbacks: 'https://github.com/MikeTheSimmer/bbs-board-general-feedbacks/issues/new'
+  }
+
+  var catalog = [{
+    name: 'Flight Simulation',
+    id: 'flight',
+    href: 'category_flight.html',
+    image: 'images/catalog/flight.png',
+    quantity: 4,
+    items: [
+      'Flight Simulation'
+    ]
+  }, {
+    name: 'Driving/Racing Simulation',
+    id: 'racing',
+    href: 'category_racing.html',
+    image: 'images/catalog/racing.png',
+    quantity: 2,
+    items: [
+      'Driving/Racing Simulation'
+    ]
+  }, {
+    name: 'Aviation Fans Item',
+    id: 'fan',
+    href: 'category_fan.html',
+    image: 'images/catalog/fan.png',
+    quantity: 2,
+    items: [
+      'Aviation Fans Item'
+    ]
+  }, {
+    name: 'Other Picks',
+    id: 'other',
+    href: 'category_other.html',
+    image: 'images/catalog/other.png',
+    quantity: 2,
+    items: [
+      'Other Picks'
+    ]
+  }]
+
+  var brands = [{
+    name: 'WinWing',
+    image: 'images/brands/ww.svg',
+  }]
+
+  var toolbarMenu = [{
+    name: 'News',
+    href: 'news.html'
+  }, {
+    name: 'Email',
+    href: 'email.html'
+  }, {
+    name: 'Discord',
+    href: shopInfo.discord
+  }, {
+    name: 'FAQ',
+    href: 'faq.html'
+  }]
+
+  var navbarMenu = [{
+    name: 'Catalog',
+    href: 'catalog.html',
+    items: catalog
+  }, {
+    name: 'Pages',
+    href: '#',
+    items: [{
+      name: 'Catalog',
+      href: 'catalog.html'
+    }, {
+      name: 'About',
+      href: 'about.html'
+    }, {
+      name: 'Contacts',
+      href: 'contacts.html'
+    }, {
+      name: 'News',
+      href: 'news.html'
+    }, {
+      name: 'Article',
+      href: 'blog.html'
+    }, {
+      name: 'FAQ',
+      href: 'faq.html'
+    }, {
+      name: 'Delivery',
+      href: 'delivery.html'
+    }]
+  }, {
+    name: 'Article',
+    href: 'blog.html'
+  }, {
+    name: 'About',
+    href: 'about.html'
+  }, {
+    name: 'Contacts',
+    href: 'contacts.html'
+  }]
+
+  var footerOverview = "Mike The Simmer - Please visit our YouTube channel, Tiktok, or Discord for more interesting videos!"
+
+  var footerMenuLeft = [{
+    name: 'Catalog',
+    href: 'catalog.html'
+  }, {
+    name: 'Articles',
+    href: 'blog.html'
+  }, {
+    name: 'News',
+    href: 'news.html'
+  }]
+
+  var footerMenuRight = [{
+    name: 'FAQ',
+    href: 'faq.html'
+  }, {
+    name: 'About',
+    href: 'about.html'
+  }, {
+    name: 'Contacts',
+    href: 'contacts.html'
+  }]
+
+  var socials = [{
+    name: 'Discord',
+    icon: 'discord',
+    link: shopInfo.discord
+  }, {
+    name: 'YouTube',
+    icon: 'youtube',
+    link: shopInfo.youtube
+  }, {
+    name: 'Tiktok',
+    icon: 'tiktok',
+    link: shopInfo.tiktok
+  }]
+
+  var filters = [{
+    id: 1,
+    name: 'brand',
+    title: 'Brands',
+    isOpen: true,
+    items: [{
+      id: 1,
+      name: 'WinWing',
+      quantity: 1
+    }]
+  }, {
+    id: 2,
+    name: 'type',
+    title: 'Type',
+    description: 'Device Types',
+    isOpen: true,
+    items: [{
+      id: 1,
+      name: 'Flight Simulation',
+      quantity: 3
+    }, {
+      id: 2,
+      name: 'Driving/Racing Sim',
+      quantity: 3
+    }, {
+      id: 3,
+      name: 'Aviation Fans Item',
+      quantity: 2
+    }, {
+      id: 4,
+      name: 'Other Picks',
+      quantity: 2
+    }]
+  }]
+
+  var compare = []
+
+  var profile = {
+    firstName: 'Guest',
+    lastName: '',
+    image: 'images/avatar.jpg',
+    registrationDate: 'June 6, 2018',
+    phone: '8 (800) 555-35-35',
+    dateOFBirth: '1990-01-01',
+    email: 'example@example.com'
+  }
+
+  var profileNav = []
+
+  var orders = []
+
+  var informationalNav = [{
+    id: 1,
+    title: 'About',
+    href: 'about.html'
+  }, {
+    id: 2,
+    title: 'Contacts',
+    href: 'contacts.html'
+  }, {
+    id: 3,
+    title: 'Articles',
+    href: 'blog.html'
+  }, {
+    id: 4,
+    title: 'News',
+    href: 'news.html'
+  }, {
+    id: 5,
+    title: 'FAQ',
+    href: 'faq.html'
+  }]
+
+  var promo = [{
+    background: '#0b0a12',
+    image: 'images/promo/promo_mfd.png',
+    title: 'F-16/F/A-18 DDI MFD Monitor',
+    link: "/product_mfd.html"
+  }, {
+    background: '#1f2024',
+    image: 'images/promo/promo_alarm.png',
+    title: 'Aviation Alarm Clock',
+    link: "/product_alarm.html"
+  }, {
+    background: '#0b0a12',
+    image: 'images/promo/promo_plate.png',
+    title: 'Aviation Magnet Plate',
+    link: "/product_aviation_plate.html"
+  }]
+
+  // Categories for index page
+  var categories = [{
+    title: 'Flight Simulation',
+    href: 'category_flight.html',
+    comment: 'from 239',
+    image: 'images/catalog/flight.png'
+  }, {
+    title: 'Driving/Racing Sim',
+    href: 'category_racing.html',
+    comment: 'from $249',
+    image: 'images/catalog/racing.png'
+  }, {
+    title: 'Aviation Fans Item',
+    href: 'category_fan.html',
+    comment: 'from $32',
+    image: 'images/catalog/fan.png'
+  }, {
+    title: 'Other Picks',
+    href: 'category_other.html',
+    comment: 'Empty',
+    image: 'images/catalog/other.png'
+  }]
+
+  var advantages = [{
+    title: 'Owner pick',
+    description: 'All items are owner self-used and picked',
+    icon: 'star'
+  }, {
+    title: '100% positive feedback',
+    description: '100% storewide feedbacks',
+    icon: 'happy'
+  }, {
+    title: 'Complete solution & product reviews',
+    description: 'Best solutions + reviews videos',
+    icon: 'info'
+  }, {
+    title: 'Life-time tech support',
+    description: 'via Discord/Email',
+    icon: 'comments'
+  }, {
+    title: 'Old customers discount',
+    description: '90% OFF for re-order via Email/Discord',
+    icon: 'bag'
+  }]
+
+
