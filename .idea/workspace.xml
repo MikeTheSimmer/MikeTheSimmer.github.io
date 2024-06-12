@@ -232,8 +232,7 @@
       <change beforePath="$PROJECT_DIR$/dest11/settings.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dest11/styles/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dest11/subcategory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/productOverview/_mirabox293.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/productOverview/_mirabox293.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/productOverview/_mirabox293s.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/productOverview/_mirabox293s.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/productOverview/_t300ledrpm.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/productOverview/_t300ledrpm.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +255,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/code/ecommerce/MikeTheSimmer.github.io",
+    "last_opened_file_path": "D:/code/ecommerce/MikeTheSimmer.github.io/src/templates/productOverview",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -267,8 +266,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\ecommerce\MikeTheSimmer.github.io\src\templates\pages" />
       <recent name="D:\code\ecommerce\MikeTheSimmer.github.io\src\templates\productOverview" />
+      <recent name="D:\code\ecommerce\MikeTheSimmer.github.io\src\templates\pages" />
       <recent name="D:\code\ecommerce\MikeTheSimmer.github.io\dest" />
       <recent name="D:\code\ecommerce\MikeTheSimmer.github.io\src\templates\partials" />
       <recent name="D:\code\ecommerce\MikeTheSimmer.github.io\dest\images\articles" />
@@ -296,7 +295,7 @@
       <workItem from="1716386635022" duration="1798000" />
       <workItem from="1716629789332" duration="77000" />
       <workItem from="1718090317903" duration="59000" />
-      <workItem from="1718094596472" duration="158000" />
+      <workItem from="1718094596472" duration="6792000" />
     </task>
     <servers />
   </component>
