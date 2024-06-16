@@ -6,6 +6,22 @@
   <component name="ChangeListManager">
     <list default="true" id="4972f50d-0814-459e-a202-aedd6cecd7d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/category_racing.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/category_racing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_aimxy.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_aimxy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_alarm.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_alarm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_analoguerpm.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_analoguerpm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_aviation_plate.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_aviation_plate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_cargapcharger.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_cargapcharger.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_kpx.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_kpx.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_mfd.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_mfd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_mirabox293.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_mirabox293.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_mirabox293s.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_mirabox293s.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_t300ledrpm.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_t300ledrpm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_t300pedals.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_t300pedals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/product_t300shifter.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_t300shifter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/subcategory.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/subcategory.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dest11/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dest11/404.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dest11/about.html" beforeDir="false" />
@@ -232,7 +248,7 @@
       <change beforePath="$PROJECT_DIR$/dest11/settings.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dest11/styles/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dest11/subcategory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/productOverview/_t300ledrpm.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/productOverview/_t300ledrpm.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/data/_products_data.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/data/_products_data.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,20 +266,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/code/ecommerce/MikeTheSimmer.github.io/src/templates/productOverview",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/ecommerce/MikeTheSimmer.github.io/src/templates/productOverview&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\ecommerce\MikeTheSimmer.github.io\src\templates\productOverview" />
@@ -295,7 +311,8 @@
       <workItem from="1716386635022" duration="1798000" />
       <workItem from="1716629789332" duration="77000" />
       <workItem from="1718090317903" duration="59000" />
-      <workItem from="1718094596472" duration="6792000" />
+      <workItem from="1718094596472" duration="6902000" />
+      <workItem from="1718504821407" duration="179000" />
     </task>
     <servers />
   </component>
