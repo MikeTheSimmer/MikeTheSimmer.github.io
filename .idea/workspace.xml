@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4972f50d-0814-459e-a202-aedd6cecd7d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/templates/pages/product_cxt12e3.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/pages/product_cxt12e4.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/productOverview/_cxt12e3.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/productOverview/_cxt12e4.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/category_flight.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/category_flight.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dest/category_racing.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/category_racing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dest/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product.html" afterDir="false" />
@@ -22,233 +28,20 @@
       <change beforePath="$PROJECT_DIR$/dest/product_t300pedals.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_t300pedals.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dest/product_t300shifter.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_t300shifter.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dest/subcategory.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/subcategory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/account.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/article.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/article_bvr.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/article_mirabox_unbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/article_simagic_unbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/article_wwfcu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/brands.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/catalog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/category.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/category_fan.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/category_flight.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/category_other.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/category_racing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/checkout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/compare.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/contacts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/delivery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/email.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/faq.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/favorites.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/about/ebay_feedbacks.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/about/ebay_feedbacks_overall.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/about/ebay_feedbacks_table.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/about/pc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/about/pilot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/bvr/f18bvr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/bvr/general_chart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/bvr/step1_key_undesignate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/bvr/step2_key_radar_elevation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/bvr/step3_tdc_range.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/bvr/step4_elevation_coverage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/bvr/step5_bvr_m1_rws.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/bvr/step5_bvr_m2_rws_ltws.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/bvr/step5_bvr_m3_tws.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/miraboxunboxing/cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/simagictb1/simgaic-unbox-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/simagictb1/simgaic-unbox-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/simagictb1/simgaic-unbox-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/simagictb1/simgaic-unbox-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/simagictb1/simgaic-unbox-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/simagictb1/simgaic-unbox-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/simagictb1/simgaic-unbox-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/wwfcu/FCU_00.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/articles/wwfcu/FCU_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/brands/aimxy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/brands/bijitac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/brands/kpx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/brands/mirabox.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/brands/winwing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/brands/winwing_raw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/brands/wonwar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/catalog/fan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/catalog/flight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/catalog/other.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/catalog/racing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/logo_500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/logo_inverse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aimxy/add-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aimxy/add-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aimxy/add-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aimxy/add-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aimxy/add-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aimxy/add-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aimxy/add-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aimxy/main-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aimxy/main-medium.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aimxy/main-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/45d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/airspeed.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/airspeed_desk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/altitude.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/altitude_desk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/attitude.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/attitude_desk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/back.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/back_battery_off.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/backlight.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/backlight2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/bottom.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/heading.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/heading_desk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/main-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/main-medium.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/main-raw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/main-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/noise-free.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/promo_alarm_new_raw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/promo_alarm_old.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/sideway.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/alarm/var.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-art1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-art2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-art3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-art4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-cockpit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-earphone.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-iphone.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-motor.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-office.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-phone-holder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-pkg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-plane.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-watch.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/add-work.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/main-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/main-medium.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/aviation_plate/main-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/ai.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/charge_diagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/dimension.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/driver1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/driver2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/driver3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/driver4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/passenger1-medium.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/passenger1-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/passenger1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/passenger2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/passenger3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/passenger4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/passenger5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/passenger6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/cargapcharger/passenger7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/app-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/app-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/app-rgb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/back.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/concept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/dcs-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/dcs-medium.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/dcs-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/layout-ets.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/layout-f-18num.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/layout-f16num.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/layout-media.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/layout-msfs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/layout-sprintires.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/rgb-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/rgb-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/rgb-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/screen-ets2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/screen-f16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/screen-f18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/screen-msfs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/shaft.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/side-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/kpx/side-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-1-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-10-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-11-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-2-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-3-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-4-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-5-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-6-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-7-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-8-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-add-9-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-large.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-medium.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/1-small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/overview-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/overview-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mfd/overview-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/app-main.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/customised.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/dcs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/ets2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/iconlib-4in1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/inpack.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/main-medium.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/main-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/main.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/media.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/music.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/plane.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/stand.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293/win.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/app-main293s.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/dcs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/defstart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/ets2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/iconlib-4in1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/info-medium.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/info-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/info.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/inpack.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/main.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/music.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/stand.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/web.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/products/mirabox293s/win.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/promo/promo_alarm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/promo/promo_mfd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/images/promo/promo_plate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/news_wwfcu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/personal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/product.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/product_aimxy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/product_alarm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/product_aviation_plate.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/product_cargapcharger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/product_kpx.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/product_mfd.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/product_mirabox293.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/product_mirabox293s.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/scripts/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/scripts/uikit-icons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/scripts/uikit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/settings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/styles/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest11/subcategory.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templates/data/_products_data.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/data/_products_data.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/mixins/_article-link.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/mixins/_article-link.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_aimxy.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_aimxy.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_alarm.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_alarm.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_analoguerpm.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_analoguerpm.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_aviation_plate.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_aviation_plate.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_cargapcharger.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_cargapcharger.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_kpx.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_kpx.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_mfd.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_mfd.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_mirabox293.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_mirabox293.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_mirabox293s.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_mirabox293s.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_t300ledrpm.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_t300ledrpm.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_t300pedals.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_t300pedals.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_t300shifter.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_t300shifter.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,20 +59,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/ecommerce/MikeTheSimmer.github.io/src/templates/productOverview&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/code/ecommerce/MikeTheSimmer.github.io/src/templates/productOverview",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\ecommerce\MikeTheSimmer.github.io\src\templates\productOverview" />
@@ -312,7 +105,9 @@
       <workItem from="1716629789332" duration="77000" />
       <workItem from="1718090317903" duration="59000" />
       <workItem from="1718094596472" duration="6902000" />
-      <workItem from="1718504821407" duration="179000" />
+      <workItem from="1718504821407" duration="232000" />
+      <workItem from="1719107588642" duration="130000" />
+      <workItem from="1720008092237" duration="5368000" />
     </task>
     <servers />
   </component>
