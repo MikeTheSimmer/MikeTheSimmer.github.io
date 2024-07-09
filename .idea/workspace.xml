@@ -5,43 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4972f50d-0814-459e-a202-aedd6cecd7d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/templates/pages/product_cxt12e3.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/pages/product_cxt12e4.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/productOverview/_cxt12e3.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/productOverview/_cxt12e4.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/category_flight.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/category_flight.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/category_racing.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/category_racing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_aimxy.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_aimxy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_alarm.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_alarm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_analoguerpm.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_analoguerpm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_aviation_plate.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_aviation_plate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_cargapcharger.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_cargapcharger.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_kpx.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_kpx.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_mfd.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_mfd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_mirabox293.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_mirabox293.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_mirabox293s.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_mirabox293s.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_t300ledrpm.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_t300ledrpm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_t300pedals.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_t300pedals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/product_t300shifter.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/product_t300shifter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dest/subcategory.html" beforeDir="false" afterPath="$PROJECT_DIR$/dest/subcategory.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templates/data/_products_data.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/data/_products_data.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/mixins/_article-link.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/mixins/_article-link.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_aimxy.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_aimxy.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_alarm.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_alarm.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_analoguerpm.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_analoguerpm.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_aviation_plate.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_aviation_plate.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_cargapcharger.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_cargapcharger.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_kpx.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_kpx.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_mfd.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_mfd.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_mirabox293.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_mirabox293.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_mirabox293s.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_mirabox293s.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_t300ledrpm.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_t300ledrpm.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_t300pedals.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_t300pedals.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/pages/product_t300shifter.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pages/product_t300shifter.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,20 +25,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/code/ecommerce/MikeTheSimmer.github.io/src/templates/productOverview",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/ecommerce/MikeTheSimmer.github.io/src/templates/productOverview&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\ecommerce\MikeTheSimmer.github.io\src\templates\productOverview" />
@@ -107,7 +73,8 @@
       <workItem from="1718094596472" duration="6902000" />
       <workItem from="1718504821407" duration="232000" />
       <workItem from="1719107588642" duration="130000" />
-      <workItem from="1720008092237" duration="5368000" />
+      <workItem from="1720008092237" duration="5976000" />
+      <workItem from="1720568096077" duration="212000" />
     </task>
     <servers />
   </component>
